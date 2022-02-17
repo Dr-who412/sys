@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "348150185771",
+    "project_id": "fayed-comp",
+    "storage_bucket": "fayed-comp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348150185771:android:5c6038078c6b74183d0f6e",
+        "android_client_info": {
+          "package_name": "com.example.fayed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348150185771-41u4als9ri70ufkpj5r2v8i6agde80ob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fayed",
+            "certificate_hash": "aa3aa806d636e4c7891c31e683970d7a74005e0e"
+          }
+        },
+        {
+          "client_id": "348150185771-9ec55sajh4a4r1mjfe1m3c50s565a9nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRNZWttLAroFVyHjTdQvMrzpin0KZfFp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348150185771-9ec55sajh4a4r1mjfe1m3c50s565a9nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
